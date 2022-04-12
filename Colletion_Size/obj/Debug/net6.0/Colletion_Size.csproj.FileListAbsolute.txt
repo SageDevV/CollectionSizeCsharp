@@ -1,0 +1,15 @@
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\bin\Debug\net6.0\Colletion_Size.exe
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\bin\Debug\net6.0\Colletion_Size.deps.json
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\bin\Debug\net6.0\Colletion_Size.runtimeconfig.json
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\bin\Debug\net6.0\Colletion_Size.dll
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\bin\Debug\net6.0\Colletion_Size.pdb
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.AssemblyInfo.cs
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.dll
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\refint\Colletion_Size.dll
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.pdb
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\Colletion_Size.genruntimeconfig.cache
+C:\Users\122589\source\repos\Colletion_Size\Colletion_Size\obj\Debug\net6.0\ref\Colletion_Size.dll
